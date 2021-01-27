@@ -38,7 +38,7 @@ then its on THEM!
 i will not be using this agienst teams!
 
 
---------- Social ----------
+## Social Media
 https://discord.gg/eKqhwfXQzQ
 https://www.tiktok.com/@mrjasondex/
 https://www.youtube.com/iamjasonhd
