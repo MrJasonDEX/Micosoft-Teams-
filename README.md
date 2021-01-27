@@ -28,7 +28,7 @@ There are few things you need to configure before running this bot.
  - delete `timetable.db` then open cmd again {https://prnt.sc/xq0x4d}
  - Run the bot `python bot.py`
  - type 1 and start following the steps
-Written on Python 3.9 
+
 
 
 
